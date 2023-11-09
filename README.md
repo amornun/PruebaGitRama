@@ -33,3 +33,5 @@ En la página principal se requieren añadir las siguientes características:
 ### secundaria.html
 La página secundaria actualmente tiene las siguientes características:
    - Link a la hoja de estilos
+### estilos.css
+Creación de la página de estilos para el body, cabeceras y párrafos.
