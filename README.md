@@ -1,7 +1,7 @@
 # PruebaGitRama
 El proyecto consiste en hacer una pequeña web con dos páginas, index.html y secundaria.html.
 
-## Actualemnte el proyecto está en la siguiente situación
+## Actualmente el proyecto está en la siguiente situación
 La estructura de directorios es la siguiente:
  - index.html
  - secundaria.html
