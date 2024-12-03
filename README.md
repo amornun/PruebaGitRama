@@ -5,8 +5,8 @@ El proyecto consiste en hacer una pequeña web con dos páginas, index.html y se
 La estructura de directorios es la siguiente:
  - index.html
  - secundaria.html
- - principal.jpg
- - secundaria.jpg
+ - img/principal.jpg
+ - img/secundaria.jpg
 ### index.html
 La página principal actualmente tiene las siguientes características:
    - Título
